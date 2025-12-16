@@ -17,7 +17,7 @@ This portfolio documents my thinking, methods, and results as I learn.
 Apartment Site Study (in progress)
 Terrain, access, and improvement analysis for a multi-building apartment complex
 
-Terrain & Habitat Mapping (Private Land Study)
+Terrain & Habitat Mapping (Private Land Study) 
 Micro-terrain, drainage, and movement analysis for a privately managed hunting property, using elevation data and field knowledge to understand access, stand placement, and animal movement patterns
 
 ---
