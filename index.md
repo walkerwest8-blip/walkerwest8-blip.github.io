@@ -1,42 +1,21 @@
 # Walker West  
 ## GIS Portfolio (QGIS)
 
-I use GIS to understand how **terrain, infrastructure, and human decisions interact on the ground**.  
-This portfolio documents my development as a GIS practitioner through real places, real constraints, and repeatable spatial methods.
+This portfolio documents my development in GIS through hands-on spatial analysis using real places and practical questions. My work focuses on terrain, access, and how physical landscapes influence movement and use.
 
-I’m not chasing perfect maps.  
-I’m building **clear questions, defensible workflows, and maps that explain something true**.
-
----
-
-## How I Think About GIS
-
-To me, GIS is not software.  
-It’s a way of slowing down a landscape long enough to ask better questions.
-
-I’m especially interested in:
-- how **terrain quietly shapes movement**, effort, and access
-- how **small spatial decisions compound** into good or bad outcomes
-- how maps can move from “technically correct” to **legible and useful**
-
-Most of my work starts with a simple question and gets refined through iteration, failure, and re-mapping.
+I’m early in this field, and I’m intentionally building strong fundamentals: clear workflows, understandable maps, and documentation that explains both results and decisions.
 
 ---
 
 ## Current Focus
 
-Right now, I’m concentrating on fundamentals that actually matter in practice:
+I’m concentrating on skills that consistently matter in applied GIS work:
 
-- **Raster workflows**  
-  DEMs, slope, aspect, hillshade, and terrain-derived surfaces  
-- **Vector workflows**  
-  Clean digitizing, attribute design, topology awareness  
-- **Site & terrain analysis**  
-  Access, effort, drainage, and spatial constraints  
-- **Cartographic clarity**  
-  Maps that communicate hierarchy, intent, and uncertainty  
-- **Documentation**  
-  Writing down *what I did, why I did it, and what I’d change next time*
+- QGIS fundamentals (raster and vector workflows)
+- Terrain and site analysis using elevation data
+- Clean data organization and project structure
+- Cartographic clarity and readable map layouts
+- Written documentation of methods and limitations
 
 ---
 
@@ -45,89 +24,68 @@ Right now, I’m concentrating on fundamentals that actually matter in practice:
 ### Apartment Site Study *(in progress)*
 
 **Context**  
-A multi-building apartment complex with inconsistent pedestrian infrastructure, uneven terrain, and informal desire paths.
+A multi-building apartment complex with uneven terrain, mixed pedestrian infrastructure, and informal desire paths.
 
-**Why this project exists**  
-People walk here every day. Some routes feel exhausting. Others feel indirect.  
-This project asks: *what is the landscape actually asking people to do?*
+**Purpose**  
+To understand how terrain and site design influence walkable access to nearby daily-use destinations.
 
-**Primary questions**
-- Which walking routes minimize **physical effort** (slope) while staying reasonably direct?
-- Where do environmental comfort factors (lighting, openness, noise proxies) support or undermine walkability?
-- How does parking layout and internal circulation affect pedestrian access to exits and nearby destinations?
+**Key questions**
+- Which routes minimize physical effort (slope) while remaining reasonably direct?
+- Where do environmental comfort factors support or undermine walkability?
+- How does parking layout and internal circulation affect pedestrian movement?
 
-**Methods in play**
-- DEM-derived slope and effort surfaces  
-- Digitized pedestrian networks and informal paths  
-- Route comparisons (shortest vs least-effort)  
-- Map layouts focused on explanation, not decoration
-
-**Status**  
-Active build. Data assembly, digitizing, and first-pass analysis underway.
+**Work in progress**
+- Digitized pedestrian networks (formal and informal)
+- Terrain-derived layers (slope and related surfaces)
+- Route comparisons (shortest vs least-effort)
+- Map layouts that emphasize explanation over decoration
 
 ---
 
 ### Terrain & Habitat Mapping *(Private Land Study)*
 
 **Context**  
-Privately managed rural land where terrain, drainage, and access directly affect movement—human and animal.
+Privately managed rural land where terrain, drainage, and access patterns directly affect movement and observation on the ground.
 
-**Why this project exists**  
-Subtle terrain features often matter more than obvious ones.  
-This project uses elevation data and field knowledge to make those features visible and testable.
+**Purpose**  
+To use elevation data and field knowledge to interpret subtle terrain features and their practical implications.
 
 **Focus areas**
 - Micro-terrain interpretation (ridges, bowls, draws, benches)
 - Drainage patterns and wetness indicators
-- Quiet, slope-aware access planning
-- Terrain-informed hypotheses about movement patterns
+- Slope-aware access planning
+- Terrain-informed movement hypotheses
 
-**Methods in play**
-- Multi-azimuth hillshades and contours  
-- Slope and aspect analysis  
-- Flow direction and accumulation  
-- Stand and access layers tied to observation
-
-**Status**  
-Active build. Terrain products and structure mapping in progress.
+**Work in progress**
+- Multi-azimuth hillshades and contours
+- Slope and aspect analysis
+- Drainage indicators (flow direction and accumulation)
+- Vector layers tied to field notes
 
 ---
 
-## How Projects Are Organized
+## Project Structure
 
-Each project follows the same structure so the work is easy to review and reproduce:
+Each project follows a consistent structure to support review and reproducibility:
 
-- `README.md` — purpose, questions, data sources, methods, limitations, next steps  
-- `data/` — raw vs processed clearly separated  
-- `qgis/` — project files and styles  
-- `maps/` — exported layouts (PNG/PDF)  
-- `notes/` — assumptions, decisions, and lessons learned  
+- `README.md` — purpose, questions, data sources, workflow, outputs
+- `data/` — raw and processed data clearly separated
+- `qgis/` — project files and styles
+- `maps/` — exported layouts (PNG/PDF)
+- `notes/` — assumptions, decisions, and lessons learned
 
-If something is messy, I document *why* it’s messy.
+Large datasets are referenced but not stored directly in the repository.
 
 ---
 
 ## Tools
 
-- **QGIS**  
-- **Open elevation and public data sources**  
-- **GitHub** for versioned documentation and transparency  
+- QGIS
+- Open elevation and public data sources
+- GitHub for documentation and version control
 
 ---
 
-## Portfolio Status
+## Status
 
-This portfolio is **actively under construction**.  
-I prioritize:
-- sound spatial reasoning over flashy outputs  
-- clarity over cleverness  
-- honesty about limitations
-
-Each project represents a snapshot of where my thinking was at the time—and where it’s heading next.
-
----
-
-## Contact
-
-GitHub: you’re here  
-LinkedIn: coming soon
+This portfolio is actively under construction and updated as projects progress. The emphasis is on steady improvement, clear methods, and honest documentation.
