@@ -40,6 +40,10 @@ To understand how terrain and site design influence walkable access to nearby da
 - Route comparisons (shortest vs least-effort)
 - Map layouts that emphasize explanation over decoration
 
+[View project repository →](https://github.com/walkerwest8-blip/apartment-site-study)
+
+## Projects
+
 ---
 
 ### Terrain & Habitat Mapping *(Private Land Study)*
