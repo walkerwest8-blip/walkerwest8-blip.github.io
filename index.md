@@ -49,6 +49,8 @@ Terrain, drainage, and movement context analysis for a privately managed parcel.
 - Terrain derivatives (slope, hillshade)
 - Raster → vector conversion and patch analysis
 - Clear cartography and documented assumptions
+- [Methods index →] (METHODS.md)
+
 
 ---
 
