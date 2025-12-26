@@ -1,95 +1,54 @@
-# Walker West  
-## GIS Portfolio (QGIS)
+# Walker West — GIS Portfolio (QGIS)
 
-This portfolio documents my development in GIS through hands-on spatial analysis using real places and practical questions. My work focuses on terrain, access, and how physical landscapes influence movement and use.
-
-I’m early in this field, and I’m intentionally building strong fundamentals: clear workflows, understandable maps, and documentation that explains both results and decisions.
+I build learning-focused GIS projects with **clear scope**, **reproducible structure**, and **honest limitations**.  
+Focus areas: terrain, walkability, and landscape structure (QGIS).
 
 ---
 
-## Current Focus
+## Now
+**Active work (rolling):**
+- **Cobb County Green Structure Typology** — Phase 1 patch-based classification and validation
+- **Apartment Site Study** — terrain foundation and walkability context buildout
+- **Terrain + Habitat Mapping** — terrain/drainage/movement context (private land; outputs only)
 
-I’m concentrating on skills that consistently matter in applied GIS work:
-
-- QGIS fundamentals (raster and vector workflows)
-- Terrain and site analysis using elevation data
-- Clean data organization and project structure
-- Cartographic clarity and readable map layouts
-- Written documentation of methods and limitations
+_Last updated: 2025-12-26_
 
 ---
 
 ## Projects
 
-### Apartment Site Study *(in progress)*
+### Cobb County Green Structure Typology (Georgia, USA)
+County-wide analysis classifying green space by **spatial structure and fragmentation** (not NDVI).  
+**Tools:** QGIS • **CRS:** EPSG:2240 • **Units:** Acres  
+- Outputs: green mask, patch typology, summary tables, report (PDF)
 
-**Context**  
-A multi-building apartment complex with uneven terrain, mixed pedestrian infrastructure, and informal desire paths.
-
-**Purpose**  
-To understand how terrain and site design influence walkable access to nearby daily-use destinations.
-
-**Key questions**
-- Which routes minimize physical effort (slope) while remaining reasonably direct?
-- Where do environmental comfort factors support or undermine walkability?
-- How does parking layout and internal circulation affect pedestrian movement?
-
-**Work in progress**
-- Digitized pedestrian networks (formal and informal)
-- Terrain-derived layers (slope and related surfaces)
-- Route comparisons (shortest vs least-effort)
-- Map layouts that emphasize explanation over decoration
-
-[View project repository →](https://github.com/walkerwest8-blip/apartment-site-study)
-
-## Projects
+[Repository →](https://github.com/walkerwest8-blip/cobb-green-structure-typology)
 
 ---
 
-### Terrain & Habitat Mapping *(Private Land Study)*
+### Apartment Site Study (in progress)
+Terrain-informed walkability context analysis for a multi-building apartment complex.  
+**Tools:** QGIS • **Approach:** slope/terrain + observed access constraints
 
-**Context**  
-Privately managed rural land where terrain, drainage, and access patterns directly affect movement and observation on the ground.
-
-**Purpose**  
-To use elevation data and field knowledge to interpret subtle terrain features and their practical implications.
-
-**Focus areas**
-- Micro-terrain interpretation (ridges, bowls, draws, benches)
-- Drainage patterns and wetness indicators
-- Slope-aware access planning
-- Terrain-informed movement hypotheses
-
-**Work in progress**
-- Multi-azimuth hillshades and contours
-- Slope and aspect analysis
-- Drainage indicators (flow direction and accumulation)
-- Vector layers tied to field notes
+[Repository →](https://github.com/walkerwest8-blip/apartment-site-study)
 
 ---
 
-## Project Structure
+### Terrain + Habitat Mapping (private land study)
+Terrain, drainage, and movement context analysis for a privately managed parcel.  
+**Note:** raw data and sensitive locations are intentionally omitted.
 
-Each project follows a consistent structure to support review and reproducibility:
-
-- `README.md` — purpose, questions, data sources, workflow, outputs
-- `data/` — raw and processed data clearly separated
-- `qgis/` — project files and styles
-- `maps/` — exported layouts (PNG/PDF)
-- `notes/` — assumptions, decisions, and lessons learned
-
-Large datasets are referenced but not stored directly in the repository.
+[Repository →](https://github.com/walkerwest8-blip/terrain-habitat-mapping)
 
 ---
 
-## Tools
-
-- QGIS
-- Open elevation and public data sources
-- GitHub for documentation and version control
+## Methods I’m Building Across Projects
+- Raster preprocessing (clip, reproject, mask)
+- Terrain derivatives (slope, hillshade)
+- Raster → vector conversion and patch analysis
+- Clear cartography and documented assumptions
 
 ---
 
-## Status
-
-This portfolio is actively under construction and updated as projects progress. The emphasis is on steady improvement, clear methods, and honest documentation.
+## Contact
+- GitHub: @walkerwest8-blip
