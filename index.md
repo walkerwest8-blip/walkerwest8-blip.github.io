@@ -22,27 +22,28 @@ _Last updated: 2025-12-26_
 ## Projects
 
 ### Cobb County Green Structure Typology (Georgia, USA)
-County-wide analysis classifying green space by **spatial structure and fragmentation** (not NDVI).  
-**Tools:** QGIS • **CRS:** EPSG:2240 • **Units:** Acres  
-- Outputs: green mask, patch typology, summary tables, report (PDF)
+**Status:** Complete  
+County-wide classification of green space based on spatial structure (patch size, shape, and corridors), using public data and QGIS only.
 
-[Repository →](https://github.com/walkerwest8-blip/cobb-green-structure-typology)
-
----
-
-### Apartment Site Study (in progress)
-Terrain-informed walkability context analysis for a multi-building apartment complex.  
-**Tools:** QGIS • **Approach:** slope/terrain + observed access constraints
-
-[Repository →](https://github.com/walkerwest8-blip/apartment-site-study)
+- Repository: https://github.com/walkerwest8-blip/cobb-green-structure-typology
+- Project status & results:  
+  https://github.com/walkerwest8-blip/cobb-green-structure-typology/blob/main/PROJECT_STATUS.md
 
 ---
 
-### Terrain + Habitat Mapping (private land study)
-Terrain, drainage, and movement context analysis for a privately managed parcel.  
-**Note:** raw data and sensitive locations are intentionally omitted.
+### Apartment Site Study
+**Status:** Active  
+Terrain-informed walkability and access analysis for a multi-building apartment complex.
 
-[Repository →](https://github.com/walkerwest8-blip/terrain-habitat-mapping)
+- Repository: https://github.com/walkerwest8-blip/apartment-site-study
+
+---
+
+### Terrain + Habitat Mapping
+**Status:** Active  
+Terrain, drainage, and movement context analysis for a privately managed land parcel.
+
+- Repository: https://github.com/walkerwest8-blip/terrain-habitat-mapping
 
 ---
 
