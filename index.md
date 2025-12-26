@@ -46,6 +46,12 @@ Terrain, drainage, and movement context analysis for a privately managed land pa
 - Repository: https://github.com/walkerwest8-blip/terrain-habitat-mapping
 
 ---
+## Portfolio Documentation
+
+- [Methods index](METHODS.md) — GIS methods demonstrated across projects
+- [Project timeline](TIMELINE.md) — development milestones and phases
+- [Project ledger](PROJECTS.md) — portfolio-wide project status
+
 
 ## Methods I’m Building Across Projects
 - Raster preprocessing (clip, reproject, mask)
