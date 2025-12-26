@@ -25,9 +25,8 @@ _Last updated: 2025-12-26_
 **Status:** Complete  
 County-wide classification of green space based on spatial structure (patch size, shape, and corridors), using public data and QGIS only.
 
-- Repository: https://github.com/walkerwest8-blip/cobb-green-structure-typology
-- Project status & results:  
-  https://github.com/walkerwest8-blip/cobb-green-structure-typology/blob/main/PROJECT_STATUS.md
+- **Repository:** [cobb-green-structure-typology](https://github.com/walkerwest8-blip/cobb-green-structure-typology)
+- **Project status & results:** [PROJECT_STATUS.md](https://github.com/walkerwest8-blip/cobb-green-structure-typology/blob/main/PROJECT_STATUS.md)
 
 ---
 
@@ -35,7 +34,7 @@ County-wide classification of green space based on spatial structure (patch size
 **Status:** Active  
 Terrain-informed walkability and access analysis for a multi-building apartment complex.
 
-- Repository: https://github.com/walkerwest8-blip/apartment-site-study
+- **Repository:** [apartment-site-study](https://github.com/walkerwest8-blip/apartment-site-study)
 
 ---
 
@@ -43,7 +42,7 @@ Terrain-informed walkability and access analysis for a multi-building apartment 
 **Status:** Active  
 Terrain, drainage, and movement context analysis for a privately managed land parcel.
 
-- Repository: https://github.com/walkerwest8-blip/terrain-habitat-mapping
+- **Repository:** [terrain-habitat-mapping](https://github.com/walkerwest8-blip/terrain-habitat-mapping)
 
 ---
 ## Portfolio Documentation
