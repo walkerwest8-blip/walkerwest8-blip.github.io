@@ -10,6 +10,8 @@ Focus areas: terrain, walkability, and landscape structure (QGIS).
 - **Cobb County Green Structure Typology** — Phase 1 patch-based classification and validation
 - **Apartment Site Study** — terrain foundation and walkability context buildout
 - **Terrain + Habitat Mapping** — terrain/drainage/movement context (private land; outputs only)
+- **[Full project ledger →]** - (PROJECTS.md)
+
 
 _Last updated: 2025-12-26_
 
