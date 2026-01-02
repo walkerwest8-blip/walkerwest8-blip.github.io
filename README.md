@@ -31,7 +31,7 @@ and translating spatial data into planning-relevant insight.
 
 ## Project Index
 
-➡️ See all projects in **[PROJECTS.md](PROJECTS.md)**
+➡️ See all projects in **[projects](projects)**
 
 ---
 
