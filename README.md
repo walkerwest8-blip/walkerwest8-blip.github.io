@@ -1,61 +1,43 @@
-# Walker West — GIS Portfolio
+# GIS Portfolio — Walker West
 
-This repository hosts my **GitHub Pages portfolio site**, which serves as a central hub for my GIS work using **QGIS**.
+This repository is a growing portfolio of applied GIS projects focused on spatial analysis,
+data normalization, and equity-oriented decision support.
 
-👉 **Live site:** https://walkerwest8-blip.github.io
-
----
-
-## About This Portfolio
-
-This portfolio documents my development in GIS with a focus on:
-
-- Real-world spatial analysis
-- Clear scope and stated limitations
-- Reproducible workflows and file organization
-- Honest documentation over polished but opaque results
-
-Projects are organized in **separate repositories** and linked from the site.  
-This repository contains **navigation, summaries, and portfolio-wide documentation**, not project data.
+Projects here emphasize **analyst thinking over cartography**:
+asking the right questions, choosing appropriate metrics, documenting limitations,
+and translating spatial data into planning-relevant insight.
 
 ---
 
 ## What You’ll Find Here
 
-- `index.md` — portfolio homepage (projects + current work)
-- `PROJECTS.md` — portfolio-wide project status ledger
-- `METHODS.md` — methods index across all projects
-- Supporting site files for GitHub Pages
+- End-to-end GIS projects (data → analysis → interpretation)
+- Clear documentation of methods and assumptions
+- Public-sector–relevant workflows using open data
+- Incremental skill progression rather than isolated demos
 
 ---
 
-## Project Repositories
+## Tools & Skills
 
-Current projects include:
-
-- **Cobb County Green Structure Typology**  
-  County-wide classification of green space by spatial structure (QGIS-only)
-
-- **Apartment Site Study**  
-  Terrain-informed walkability and access context analysis
-
-- **Terrain + Habitat Mapping**  
-  Terrain, drainage, and movement analysis for a privately managed parcel
-
-See the live site for links and current status.
+- QGIS
+- Census ACS data (S0101, S1901)
+- Spatial joins (one-to-many vs summary)
+- Land-based and population-based normalization
+- Equity and access analysis
+- Technical documentation (Markdown)
 
 ---
 
-## Tools & Focus
+## Project Index
 
-- **Primary software:** QGIS
-- **Data:** Public/open sources
-- **Domains:** terrain analysis, walkability, landscape structure
-- **Approach:** analytical, restrained, and reproducible
+➡️ See all projects in **[PROJECTS.md](PROJECTS.md)**
 
 ---
 
-## Contact
+## Notes
 
-- GitHub: @walkerwest8-blip
+Raw data and large geospatial files are intentionally excluded.
+This repository focuses on **analysis, reasoning, and results**.
+
 
