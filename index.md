@@ -10,6 +10,29 @@ Rather than focusing on isolated maps, each project emphasizes:
 
 The goal is to demonstrate **analyst thinking**, not just technical execution.
 
+## About
+
+I’m Walker West, a Geography student building practical GIS experience with a focus on
+**spatial analysis, normalization, and equity-oriented decision support**.
+
+I approach GIS as an analytical system rather than a map-making exercise. My work centers
+on framing the right questions, choosing defensible metrics, documenting assumptions,
+and clearly stating limitations so results can support real planning and policy decisions.
+
+I have an AuDHD cognitive profile, which strongly shapes how I work—in productive ways.
+I tend to think in systems, patterns, and layers, and I’m naturally drawn to asking
+“what’s actually being measured here?” rather than stopping at surface-level outputs.
+This often leads me to stress-test metrics, explore alternative normalizations, and be
+explicit about uncertainty and edge cases.
+
+My interests sit at the intersection of **public space, land use, access, and equity**,
+particularly where spatial data can reveal mismatches between infrastructure and the
+communities it serves. I’m especially motivated by projects that translate complex
+spatial data into clear, responsible insight for decision-makers.
+
+This portfolio documents real workflows using open data and QGIS, emphasizing progression
+from foundational techniques to applied analysis rather than isolated demonstrations.
+
 ---
 
 ## Featured Project
